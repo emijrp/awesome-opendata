@@ -18,6 +18,7 @@ A curated list of awesome opendata repositories.
 
 ## Politics
 
+* [pipar](https://github.com/imdario/pipar) - Metadata about 4,000+ Spanish political parties.
 
 ## Other
 
