@@ -6,6 +6,7 @@ A curated list of awesome opendata repositories.
     - [Culture](#culture)
     - [Geography](#geography)
     - [Politics](#politics)
+    - [Portals](#portals)
     - [Other](#other)
 - [Contributing](#contributing)
 
@@ -19,6 +20,11 @@ A curated list of awesome opendata repositories.
 ## Politics
 
 * [pipar](https://github.com/imdario/pipar) - Metadata about 4,000+ Spanish political parties.
+
+## Portals
+
+* [datos.gob.es](http://datos.gob.es/) - Spanish portal for opendata.
+* [Public Dataset Catalogs Faceted Browser](http://datos.fundacionctic.org/sandbox/catalog/faceted/) - Map of opendata around the world.
 
 ## Other
 
