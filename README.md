@@ -14,6 +14,7 @@ A curated list of awesome opendata repositories.
 
 ## Geography
 
+* [venezuela-sql](https://github.com/marydn/venezuela-sql) - SQL database of states, cities, municipalities and parroquias of Venezuela.
 
 ## Politics
 
