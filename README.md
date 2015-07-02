@@ -12,6 +12,7 @@ A curated list of awesome opendata repositories.
 
 ## Culture
 
+* [erfgoed/heritage](https://tools.wmflabs.org/heritage/api/api.php) - API for monument data available in Wikipedia projects.
 
 ## Geography
 
