@@ -28,6 +28,7 @@ A curated list of awesome opendata repositories.
 
 ## Other
 
+* [Wikidata](https://www.wikidata.org/) - Free knowledge base with 14,577,929 data items that anyone can edit. You can [download the database](https://www.wikidata.org/wiki/Wikidata:Database_download) (JSON, XML, RDF) or access via [API](https://www.wikidata.org/w/api.php), [Wikidata Query editor](https://wdq.wmflabs.org/wdq/) or [Autolist2](https://tools.wmflabs.org/autolist/index.php).
 
 # Contributing
 
