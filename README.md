@@ -24,6 +24,7 @@ A curated list of awesome opendata repositories.
 
 ## Portals
 
+* [Aragón Open Data](https://github.com/aragonopendata) - Opendata repository of Aragón autonomous community of Spain.
 * [datos.gob.es](http://datos.gob.es/) - Spanish portal for opendata.
 * [Public Dataset Catalogs Faceted Browser](http://datos.fundacionctic.org/sandbox/catalog/faceted/) - Map of opendata around the world.
 
