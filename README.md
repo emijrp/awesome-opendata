@@ -34,4 +34,4 @@ A curated list of awesome opendata repositories.
 
 # Contributing
 
-For contributing, [open an issue](https://github.com/emijrp/awesome-opendata/issues) and/or a [pull request](https://github.com/emijrp/awesome-opendata/pulls). Above there are some ideas for missing opendata, be bold!
+For contributing, [open an issue](https://github.com/emijrp/awesome-opendata/issues) and/or a [pull request](https://github.com/emijrp/awesome-opendata/pulls). Thanks.
